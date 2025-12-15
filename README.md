@@ -1,7 +1,5 @@
 # Pokemon-Battle-Arena-OOP-Group-2-
 
-# Pokemon Battle Arena
-
 A turn-based `Pokemon battle arena` built with PHP OOP principles, featuring dual-type Pokemon, type effectiveness, and strategic combat.
 
 ## Features
