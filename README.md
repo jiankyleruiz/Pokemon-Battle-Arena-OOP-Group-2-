@@ -34,4 +34,7 @@ A turn-based `Pokemon battle arena` built with PHP OOP principles, featuring dua
 - Players take turns choosing actions (attack, switch, item)
 - Battle continues until all Pokemon on one team faint
 - Type effectiveness and STAB bonuses affect damage
+
 - First player to defeat all opponent's Pokemon wins
+
+- Video Demonstration Link: https://drive.google.com/file/d/1DWjVS92dxK2XxInQ4Lj4YSrhTSNcidTu/view?usp=sharing
