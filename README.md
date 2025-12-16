@@ -37,4 +37,5 @@ A turn-based `Pokemon battle arena` built with PHP OOP principles, featuring dua
 
 - First player to defeat all opponent's Pokemon wins
 
-- Video Demonstration Link: https://drive.google.com/file/d/1DWjVS92dxK2XxInQ4Lj4YSrhTSNcidTu/view?usp=sharing
+
+
